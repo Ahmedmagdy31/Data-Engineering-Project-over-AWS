@@ -136,6 +136,8 @@ Using Quicksight we will create a dashboard with more than *3,000,000 records
 
 ![quicksightdb3](https://user-images.githubusercontent.com/93045990/177011728-8ae33d5d-ec7d-47a9-8d56-feb4440bfc09.PNG)
 ![quicksightdb4](https://user-images.githubusercontent.com/93045990/177011735-e1afc6e8-0f77-4d27-b142-b33130a84c7e.PNG)
+![quicksightdb5](https://user-images.githubusercontent.com/93045990/177011819-d3cbd61b-f1a3-4c76-8068-b601ee5c730f.PNG)
+
 
 
 
