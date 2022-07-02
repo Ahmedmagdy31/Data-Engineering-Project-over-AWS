@@ -1,4 +1,4 @@
-In this workshop I am building and executing end-to-end ELT pipeline and driving analytics using Amazon Redshift as the data warehouse solution. With the below AWS services
+In this project I am building and executing end-to-end ELT pipeline and driving analytics using Amazon Redshift as the data warehouse solution. With the below AWS services
 
 Amazon Redshift: Data warehouse and data lake
 
